@@ -1,9 +1,14 @@
 import React from 'react'
+import Header from '../components/Header'
+import AddLocation from '../components/AddLocation'
+import LocationList from '../components/LocationList'
 
 const Home = () => {
   return (
     <div>
-      Home Page
+      <Header />
+      <AddLocation />
+      <LocationList />
     </div>
   )
 }
