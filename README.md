@@ -2,7 +2,7 @@
 
 Here’s a writeup on how to create a search engine sort off full stack web application that finds local businesses or institutions using PERN stack, I know everyone is running behind MERN now, but I love PostgreSQL. 
 If you aren’t familiar with PERN, here’s what it stands for, P for PostgreSQL, E for Express.js , R for React and N for Node.js.
-Now I got no idea on how the end product would look like, but I’m going for something along the Yelp example. Maybe adding Map API at the end would be an icing in the cake. **[Ongoing]**
+Now I got no idea on how the end product would look like, but I’m going for something along the Yelp example. Maybe adding Map API at the end would be an icing in the cake. **[Redacted]**
 
 The complete writeup can be accessed on the provided Notion link.
 [Notion](https://deadgawk.notion.site/LocaleLookup-Information-Retrieval-Website-4b0a80f4b4424339a0dbd31c8d439911?pvs=4)
